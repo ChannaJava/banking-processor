@@ -41,6 +41,7 @@ A Spring Boot microservice for processing multi-account banking transactions, ma
 
 
 Steps to fallow to run the project
+
 1.Build the project:
 
 mvn clean install
