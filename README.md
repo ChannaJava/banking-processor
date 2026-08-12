@@ -35,9 +35,9 @@ A Spring Boot microservice for processing multi-account banking transactions, ma
 ### Installation & Run
 
 1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/banking-transaction-processor.git](https://github.com/your-username/banking-transaction-processor.git)
-   cd banking-transaction-processor
+  
+   git clone [https://github.com/ChannaJava/banking-processor.git]
+   cd banking-processor
 
 
 Steps to fallow to run the project
