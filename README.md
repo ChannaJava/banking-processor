@@ -40,7 +40,7 @@ A Spring Boot microservice for processing multi-account banking transactions, ma
    cd banking-processor
 
 
-Steps to fallow to run the project
+**Steps to fallow to run the project**
 
 1.Build the project:
 
